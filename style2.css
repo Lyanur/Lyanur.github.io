@@ -1,0 +1,36 @@
+
+nav {
+	margin: 0;
+	display: flex;
+	justify-content: space-around;
+}
+main {
+	margin: 0;
+	display: flex;
+	width: 100%;
+	flex-direction: column;
+}
+body {
+	background: radial-gradient(circle at 65% 15%, #B25D58, #FBD2A6);
+	margin: 0;
+}
+.img1 {
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+p {
+	font-size: 20px;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+}
+h1,h2,h3 {
+	text-align: center;
+}
+.су {
+	text-align: center;
+}
